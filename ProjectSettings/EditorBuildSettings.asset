@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Prefabs/Scenes/MainMenu.unity
+    guid: 918acad3a7932634e8ab22943ed4d25d
+  - enabled: 1
+    path: Assets/Prefabs/Scenes/LevelSelect.unity
+    guid: 8c35ecf3f9f5dcf4582bd6e04b3d1680
+  - enabled: 1
+    path: Assets/Prefabs/Scenes/Level1.unity
+    guid: c3ad77813d175984d8ed238423efd158
+  - enabled: 1
+    path: Assets/Prefabs/Scenes/Level2.unity
+    guid: 7495e2c5f2b123c459a836a9f3bf1bb6
+  - enabled: 1
+    path: Assets/Prefabs/Scenes/Level3.unity
+    guid: 054422c6a3761ca479fca41340a34fd5
+  - enabled: 1
+    path: Assets/Prefabs/Scenes/Credits.unity
+    guid: 8f9382cf448e12545973108a28b67c3a
